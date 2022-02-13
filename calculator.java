@@ -1,3 +1,4 @@
+/* this is a caulator pgm */
 import java.util.Scanner;
 
  public class calculator
@@ -56,3 +57,5 @@ import java.util.Scanner;
 	}while(choice != 5);       
     }
 }
+
+
